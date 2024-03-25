@@ -10,5 +10,7 @@
             -lab 1
             tasks 1-4
           >Quizzes
-            -Quiz 1
-            Questions 1-4
+              -Quiz 1
+                 Questions 1-4
+              -Quiz 2
+                 Questions 1-3 with.cpp extensions
